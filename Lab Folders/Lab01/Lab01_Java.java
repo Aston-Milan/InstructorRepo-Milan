@@ -8,6 +8,8 @@ void testMethod1()
   //Second commnad print(x)
 
 
+  // Edit 2 Made by Milan_Bartosik_230101384 in GitPod
+
   //Last line print('Good bye')
 }
 
